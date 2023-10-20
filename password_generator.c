@@ -4,7 +4,7 @@
 #include<string.h>
 
 int passwordgenerator(int letter,int number,int symbol);
-int main()
+void main()
 {
     
     int letter,number,symbol;
